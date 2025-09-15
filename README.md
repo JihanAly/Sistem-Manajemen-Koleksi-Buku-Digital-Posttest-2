@@ -20,7 +20,7 @@ Saat program dijalankan program akan menampilkan menu utama:
 4. Cari Buku
 5. Keluar
 
-
+Setelah itu jika memilih:
 
 1. Tambah Buku
 
