@@ -49,7 +49,7 @@ Setelah itu jika memilih:
 5. Keluar
 
 -Jika user memilih keluar, program akan menampilkan pesan perpisahan:
-“Terima kasih, Koleksi bukumu aman terkendali.”
+“Terima kasih - Sampai jumpa!.”
 
 Program selesai.
 
