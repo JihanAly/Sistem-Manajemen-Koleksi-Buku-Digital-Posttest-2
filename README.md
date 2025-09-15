@@ -24,31 +24,31 @@ Saat program dijalankan program akan menampilkan menu utama:
 
 1. Tambah Buku
 
-*User memasukkan judul, penulis, dan tahun terbit.
+-User memasukkan judul, penulis, dan tahun terbit.
 
-*Data akan disimpan ke dalam koleksi.
+-Data akan disimpan ke dalam koleksi.
 
 2. Lihat Koleksi Buku
 
-*Program menampilkan daftar semua buku yang sudah ditambahkan.
+-Program menampilkan daftar semua buku yang sudah ditambahkan.
 
 3. Hapus Buku
 
-*Program menampilkan daftar buku dengan nomor urut.
+-Program menampilkan daftar buku dengan nomor urut.
 
-*User memasukkan nomor buku yang ingin dihapus.
+-User memasukkan nomor buku yang ingin dihapus.
 
-*Program akan menghapus data buku tersebut.
+-Program akan menghapus data buku tersebut.
 
 4. Cari Buku
 
-*User memasukkan kata kunci (judul).
+-User memasukkan kata kunci (judul).
 
-*Program menampilkan hasil pencarian (jika ada), atau pesan "Buku tidak ditemukan".
+-Program menampilkan hasil pencarian (jika ada), atau pesan "Buku tidak ditemukan".
 
 5. Keluar
 
-*Jika user memilih keluar, program akan menampilkan pesan perpisahan:
+-Jika user memilih keluar, program akan menampilkan pesan perpisahan:
 “Terima kasih, Koleksi bukumu aman terkendali.”
 
 Program selesai.
